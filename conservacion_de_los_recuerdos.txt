@@ -1,4 +1,4 @@
-Conservación de los recuerdos (Julio Cortazar)
+Conservación de los recuerdos 
 
 Los famas para conservar sus recuerdos proceden a
 embalsamarlos en la siguiente forma: Luego de fijado
@@ -17,3 +17,5 @@ hay gran bulla y puertas que golpean. Los vecinos se
 quejan siempre de los cronopios, y los famas mueven la
 cabeza comprensivamente y van a ver si las etiquetas
 están todas en su sitio.
+
+(Julio Cortazar)
